@@ -1,1 +1,1 @@
-Código para transmitir uma senoide no pino analógico
+Code to transmit a sinusoid using a analog pin.
